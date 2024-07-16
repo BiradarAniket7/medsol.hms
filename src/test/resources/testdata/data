@@ -1,0 +1,13 @@
+name=Aniket
+invoiceNumber=77
+amount=2000
+description=about disease
+
+ename=Sangram
+einvoiceNumber=107
+eamount=200
+
+diagnosisCat=General
+diagnosisDesc=Health Issue
+editdiagnosisCat=Dental
+editdiagnosisDesc=teeth problem
